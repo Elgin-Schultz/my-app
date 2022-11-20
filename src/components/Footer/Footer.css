@@ -1,0 +1,9 @@
+.footer {
+  display: block;
+  background-color: #252629;
+  text-align: center;
+}
+.footer__text {
+  color: #ffffff;
+  text-align: center;
+}
